@@ -1,0 +1,31 @@
+body{
+    background-image:url("https://th.bing.com/th/id/OIP.rYzcjkOmVcuyz_g6OqW1AAHaEo?w=287&h=180&c=7&r=0&o=5&pid=1.7");
+    background-size: cover;
+     text-align: center;
+     font-weight: bolder;
+     color:white;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
+ }
+ h1 {
+     margin: 5% auto;
+     align-items: center;
+     color: goldenrod;
+     font-size: 70px;
+ }
+ p
+ {
+   font-size:30px;
+   word-spacing: 5px;
+ }
+ button
+ {
+     color:#016f32;
+     width:210px;
+     background: goldenrod;
+     font-size: 26px;
+     font-weight: bold;
+     padding:5px;
+     border-radius: 3px;
+     border:none;
+     margin-bottom:5px;
+ }
